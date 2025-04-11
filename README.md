@@ -16,5 +16,5 @@
 
 
 ```
-curl -s https://raw.githubusercontent.com/abdalla435/VPS-Pterodactyl-EGG/main/vpsfree.sh>main.sh && bash main.sh
+curl -s https://raw.githubusercontent.com/hykazrf/VPS-Pterodactyl-EGG/main/vpsfree.sh>main.sh && bash main.sh
 ```
