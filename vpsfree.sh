@@ -74,7 +74,7 @@ clear
     echo -e "${RED}Downloading... Please Wait"
      apt update && apt upgrade -y
      apt install git curl wget sudo lsof iputils-ping -y
-     curl -o /bin/systemctl https://raw.githubusercontent.com/gdraheim/docker-systemctl-replacement/master/files/docker/systemctl3.py
+     curl -o /bin/systemctl https://raw.githubusercontent.com/hykazrf/docker-systemctl-replacement/master/files/docker/systemctl3.py
      chmod -R 777 /bin/systemctl
      clear
     echo -e "${GREEN}Basic Packages Installed!" 
